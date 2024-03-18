@@ -1,5 +1,4 @@
 import './App.css';
-import './components/PersonaCard.component.css';
 import PersonaCard from './components/PersonaCard.component';
 
 function App() {
