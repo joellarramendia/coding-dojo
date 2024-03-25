@@ -1,0 +1,31 @@
+.tabs-container {
+    width: 100%;
+  }
+  
+  .tabs-header {
+    display: flex;
+  }
+  
+  .tab-header {
+    cursor: pointer;
+    padding: 10px 20px;
+    border-bottom: 2px solid transparent;
+    transition: border-bottom-color 0.3s ease;
+    background-color: #f1f1f1;
+    margin-right: 5px;
+  }
+  
+  .tab-header.active {
+    background-color: black;
+    color: white;
+  }
+  
+  .tab-content {
+    margin-top: 10px;
+    overflow: hidden;
+    transition: height 0.3s ease;
+    width: 500px;
+    height: 100px;
+    border: solid 1px black;
+  }
+  
