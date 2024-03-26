@@ -1,0 +1,12 @@
+.navbar-content{
+    background-color: blueviolet;
+}
+
+h1{
+    color: white;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin: 15px;
+    padding: 10px;
+}
