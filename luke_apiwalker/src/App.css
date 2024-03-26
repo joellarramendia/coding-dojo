@@ -1,0 +1,25 @@
+
+
+select{
+  background-color: rgb(47, 0, 255);
+  color: white;
+  margin-left: 10px;
+  margin-right: 50px;
+  padding: 10px;
+}
+
+.options{
+  background-color: white;
+  color: black;
+  padding: 10px;
+  margin-left: 10px;
+
+}
+
+.btn-search{
+  padding: 5px;
+  margin-left: 10px;
+  background-color: slategrey;
+  color: white;
+}
+
