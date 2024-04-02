@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import axios from 'axios';
 import './ProductForm.css'
 
-export default () => {
+export default () =>{
     //mantener el control de lo que se escribe a traves del gancho useState
     const [title, setTitle] = useState("");
     const [price, setPrice] = useState("");
