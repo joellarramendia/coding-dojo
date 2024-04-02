@@ -1,3 +1,19 @@
 .details-content{
     text-align: center;
 }
+
+.btn-delete{
+    margin-left: 20px;
+    padding: 5px;
+    background-color: red;
+    color: white;
+    border: none;
+}
+
+.form-update{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
