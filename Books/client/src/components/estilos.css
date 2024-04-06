@@ -1,0 +1,70 @@
+.authorForm, .update{
+    border: 2px solid #000;
+    width: 300px;
+    padding: 15px;
+}
+
+.btn{
+    background-color: #069ad4e3;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    margin: 10px 0 0 10px;
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+
+.table-container {
+    margin-top: 20px;
+    width: 350px;
+ 
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  td a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  td a:hover {
+    text-decoration: underline;
+  }
+
+  .btn-edit {
+    background-color: #dcc335;
+    color: black;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 15px;
+  }
+  
+  .btn-delete {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 15px;
+  }
+  
+  
+  
