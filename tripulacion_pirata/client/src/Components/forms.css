@@ -1,0 +1,34 @@
+.form {
+    background-color: white;
+    padding: 10px 20px 20px 20px;
+    margin: 0 50px 50px 50px;
+    border: 2px solid black;
+    width: 250px;
+}
+
+.form-login-content {
+    margin-bottom: 15px;
+}
+
+.form input {
+    width: 90%;
+    padding: 10px;
+    display: inline-block;
+    border: 2px solid black;
+    background: #f1f1f1;
+    margin-top: 5px;
+}
+
+.btn-register, .btn-login {
+    background-color: #2112f0;
+    color: white;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+

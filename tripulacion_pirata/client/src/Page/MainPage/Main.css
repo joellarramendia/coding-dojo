@@ -1,0 +1,65 @@
+.header-main {
+    background-color: rgb(73, 43, 21);
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.header-main .h2-main {
+    font-size: 40px;
+    color: white;
+    margin-left: 350px;
+}
+
+.btn-list-page{
+    border: 3px solid black;
+    width: 150px;
+    padding: 2px;
+    margin-left: 200px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(0, 24, 102);
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.form-addPirata{
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+}
+
+.form-content{
+    margin-bottom: 20px;
+}
+
+.form-addPirata .flex-left input{
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.form-addPirata .flex-right select{
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.form-addPirata label{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.form-addPirata button{
+    border: 3px solid black;
+    width: 150px;
+    padding: 2px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(0, 24, 102);
+}

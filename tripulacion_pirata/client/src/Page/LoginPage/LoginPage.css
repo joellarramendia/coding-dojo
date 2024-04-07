@@ -1,0 +1,18 @@
+.forms-content{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+
+.header-login {
+    background-color: rgb(73, 43, 21);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.header-login .h1-login {
+    font-size: 40px;
+    color: white;
+}
